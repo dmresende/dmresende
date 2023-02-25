@@ -1,6 +1,6 @@
 ## Olá, Meu Nome é Douglas! 👋
 
-- 🔭 Atuo no desenvolvimento de sistemas de gestão multi-empresarial CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
+- 🔭 Atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
 - 🌱 Estou estudando aplicações mobile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
