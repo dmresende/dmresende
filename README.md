@@ -1,18 +1,19 @@
 ## Olá, Meu Nome é Douglas! 👋
 
-- 🔭 Atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
+- 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
 - 🌱 Estou estudando aplicações mobile.
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=dmresende&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmresende&show_icons=true&theme=tokyonight&hide_rank=true&line_height=20&custom_title=GitHub-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)
+
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/dmresende">
-  <img align="left" alt="d-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="d-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" alt="d-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="d-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="d-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="d-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="d-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="d-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="d-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="d-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="d-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
