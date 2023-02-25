@@ -3,8 +3,9 @@
 - 🔭 Atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
 - 🌱 Estou estudando aplicações mobile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=dmresende&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <a href="https://github.com/dmresende">
   <img align="left" alt="d-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +23,5 @@
   <a href="https://www.linkedin.com/in/douglasmresende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![snake gif](https://github.com/dmresende/dmresende/blob/output/github-contribution-grid-snake.svg)
 
 
