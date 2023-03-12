@@ -3,8 +3,7 @@
 - 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
 - 🌱 Estou estudando aplicações mobile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmresende&show_icons=true&theme=tokyonight&hide_rank=true&line_height=20&custom_title=GitHub-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)
 
 
 <div style="display: inline_block"><br>
