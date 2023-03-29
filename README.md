@@ -3,9 +3,13 @@
 - 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#, SSMS, AngularJS e React Native para garantir soluções eficientes e personalizadas.
 - 🌱 Estou estudando desenvolvimento backend.
 
+<img align="right" alt="Doug-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1085361560425336835/1085389774598189136/teste.png">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cs,dotnet,mysql)](https://skillicons.dev)
+
+
   ##
  
 <div> 
