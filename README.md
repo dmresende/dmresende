@@ -1,11 +1,11 @@
 ## Olá, Meu Nome é Douglas! 👋
 
-- 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#,, Angular e React Native para garantir soluções eficientes e personalizadas.
-- 🌱 Estou estudando aplicações mobile.
+- 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#, SSMS, AngularJS e React Native para garantir soluções eficientes e personalizadas.
+- 🌱 Estou estudando desenvolvimento backend.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmresende&layout=compact&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cs,dotnet,mysql)](https://skillicons.dev)
   ##
  
 <div> 
