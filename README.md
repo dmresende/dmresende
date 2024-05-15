@@ -1,4 +1,4 @@
-## Olá, visitante! Sou Douglas Resende, e você esta no meu perfil no github! 👋
+## Olá, visitante! Sou Douglas Resende, seja bem-vindo ao meu perfil no github! 👋
 
 - 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#, SSMS, AngularJS e React Native para garantir soluções eficientes e personalizadas.
 - 🌱 buscando conhecimento no desenvolvimento de software!
