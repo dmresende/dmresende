@@ -1,11 +1,19 @@
-## Olá, visitante! Sou Douglas Resende, seja bem-vindo ao meu perfil no github! 👋
+## Olá, visitante! Sou Douglas Resende, seja bem-vindo! 👋
 
-- 🔭 Atualmente atuo no desenvolvimento de sistemas de gestão  CRM/ERP, utilizando diversas tecnologias como Visual Basic, C#, SSMS, AngularJS e React Native para garantir soluções eficientes e personalizadas.
-- 🌱 buscando conhecimento no desenvolvimento de software!
+---
+
+**💻 Desenvolvedor Backend C#/.NET**  
+- Atuo com **APIs, sistemas corporativos e bancos de dados (SQL Server)**  
+- Experiência fullstack (TS/React Native), mas migrando para **especialização em backend**  
+- Estudando **boas práticas (SOLID, Clean Code) e arquitetura de software**  
+
+*"Do fullstack por necessidade ao backend por paixão – em constante evolução."*  
+
+---
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,nodejs,mongodb,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,react,mongodb,postgres,git)](https://skillicons.dev)
 </div>
 
 
