@@ -3,7 +3,7 @@
 ---
 
 **💻 Desenvolvedor Backend C#/.NET**  
-- Atuo com **APIs, sistemas corporativos e bancos de dados (SQL Server)**  
+- Atuo com desenvolvimento de **APIs, sistemas corporativos e bancos de dados (SQL Server)**  
 - Experiência fullstack (TS/React Native), mas migrando para **especialização em backend**  
 - Estudando **boas práticas (SOLID, Clean Code) e arquitetura de software**  
 
